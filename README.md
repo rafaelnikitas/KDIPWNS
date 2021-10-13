@@ -21,3 +21,7 @@ plot = True <br/>
 The first one event = True will perform an AB Test on the event selected, period (month) defined on every variation. <br/>
 The second cat = True will perform an AB Test on the event selected, period (month) defined on categorical column (COL) defined. <br/>
 The third plot = True will plot event selected over various periods of time aggregations (day,day of week,weekend). <br/>
+
+# requirements.txt
+
+Both data pipeline and ipynb file were created with the installation of the libraries and their respective versions.
