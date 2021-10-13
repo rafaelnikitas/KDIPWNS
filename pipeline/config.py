@@ -8,7 +8,7 @@ Created on Wed Oct 13 10:09:58 2021
 EVENT = 'checkout.loaded'
 MONTH = 'all'
 BINARY_NAME = 'Checkout'
-PATH = 'C:/Users/efood/'
+PATH = 'C:/Users/localpath/'
 FILE = 'efood.json'
 COL = 'medium'
 
