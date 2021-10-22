@@ -7,7 +7,7 @@ In __PATH__ you need to type __localpath__ and __FILE__ the name of the dataset 
 EVENT = ['checkout.loaded',transaction ,suggested_popup.closed,suggested_modal.shop_list.clicked,suggested_shop.clicked] <br/>
 MONTH = ['all',3,4] <br/>
 BINARY_NAME = ['Checkout',Transaction ,Suggested Popup Closed,Shop List Clicked,Suggested Shop Clicked] <br/>
-PATH = 'C:/Users/efood/'  <br/>
+PATH = 'C:/Users/'  <br/>
 FILE = 'efood.json' <br/>
 COL = ['visitType', 'landingPage', 'appBrowser','source', 'medium'] <br/>
 
