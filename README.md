@@ -8,7 +8,7 @@ EVENT = ['checkout.loaded',transaction ,suggested_popup.closed,suggested_modal.s
 MONTH = ['all',3,4] <br/>
 BINARY_NAME = ['Checkout',Transaction ,Suggested Popup Closed,Shop List Clicked,Suggested Shop Clicked] <br/>
 PATH = 'C:/Users/'  <br/>
-FILE = 'efood.json' <br/>
+FILE = 'data.json' <br/>
 COL = ['visitType', 'landingPage', 'appBrowser','source', 'medium'] <br/>
 
 
