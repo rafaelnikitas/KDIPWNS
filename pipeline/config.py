@@ -9,7 +9,7 @@ EVENT = 'checkout.loaded'
 MONTH = 'all'
 BINARY_NAME = 'Checkout'
 PATH = 'C:/Users/localpath/'
-FILE = 'efood.json'
+FILE = 'data.json'
 COL = 'medium'
 
 
